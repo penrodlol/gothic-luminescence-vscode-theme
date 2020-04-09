@@ -1,0 +1,22 @@
+{
+    "name": "gothic-luminescence",
+    "displayName": "Gothic Luminescence",
+    "publisher": "penrodlol",
+    "description": "Step into the dark luminescent realm of wonder!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gothic Luminescence",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gothic Luminescence-color-theme.json"
+            }
+        ]
+    }
+}
